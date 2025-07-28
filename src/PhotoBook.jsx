@@ -5,7 +5,7 @@ const photos = [
   { image: "/photos/1.JPG", text: "Every moment with you feels like a beautiful dream I never want to wake up from" },
   { image: "/photos/2.JPG", text: "With you, every day is a new adventure filled with love and laughter." },
   { image: "/photos/3.JPG", text: "You’re not just my girlfriend — you’re my best friend, my favorite hello, and hardest goodbye" },
-  { image: "/photos/10.jpg", text: "I fall in love with you a little more every single day" },
+//   { image: "/photos/10.jpg", text: "I fall in love with you a little more every single day" },
   { image: "/photos/11.jpg", text: "Your smile brightens even my darkest days." },
   { image: "/photos/12.jpg", text: "You make my world more colorful just by being in it." },
   {image: "/photos/13.jpg", text: "No matter where life takes us, I’m glad I get to go there with you" },
