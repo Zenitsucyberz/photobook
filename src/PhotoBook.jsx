@@ -2,12 +2,18 @@ import React from "react";
 import HTMLFlipBook from "react-pageflip";
 
 const photos = [
-  { image: "/photos/1.JPG", text: "Sakura memories 🌸 – April 2023" },
-  { image: "/photos/2.JPG", text: "Sunset at the beach – July 2023" },
-  { image: "/photos/3.JPG", text: "Snowfall magic – December 2023" },
-  { image: "/photos/1.JPG", text: "Sakura memories 🌸 – April 2023" },
-  { image: "/photos/2.JPG", text: "Sunset at the beach – July 2023" },
-  { image: "/photos/2.JPG", text: "Sunset at the beach – July 2023" },
+  { image: "/photos/1.JPG", text: "Every moment with you feels like a beautiful dream I never want to wake up from" },
+  { image: "/photos/2.JPG", text: "With you, every day is a new adventure filled with love and laughter." },
+  { image: "/photos/3.JPG", text: "You’re not just my girlfriend — you’re my best friend, my favorite hello, and hardest goodbye" },
+  { image: "/photos/10.jpg", text: "I fall in love with you a little more every single day" },
+  { image: "/photos/11.jpg", text: "Your smile brightens even my darkest days." },
+  { image: "/photos/12.jpg", text: "You make my world more colorful just by being in it." },
+  {image: "/photos/13.jpg", text: "No matter where life takes us, I’m glad I get to go there with you" },
+  { image: "/photos/14.jpg", text: "Holding your hand feels like coming home." },
+  { image: "/photos/15.jpg", text: "Forever isn’t long enough when I’m with you" },
+  { image: "/photos/16.jpg", text: "Thank you for being my sunshine, my calm in the storm, and my greatest happiness." },
+  { image: "/photos/17.jpg", text: "I love the way you laugh, the way you care, and the way you make everything better." },
+  { image: "/photos/18.jpg", text: "You are my today and all of my tomorrows" },
 ];
 
 // Cover page component
